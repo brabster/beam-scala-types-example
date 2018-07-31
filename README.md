@@ -12,6 +12,7 @@ Our log lines look like this:
 
 - [AccessLog.scala](src/main/scala/works/tempered/examples/AccessLog.scala) - a case class and parse function for access log lines.
 - [TypesExamplePipeline.scala](src/main/scala/works/tempered/examples/TypesExamplePipeline.scala) - a short pipeline to calculate counts of accesses
+- [TypesExamplePipelineTest.scala](src/test/scala/works/tempered/examples/TypesExamplePipelineTest.scala) - a test for the pipeline
 
 Use your IDE's support to show the type signature at different points in the pipeline.
 
